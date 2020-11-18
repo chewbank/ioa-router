@@ -1,0 +1,22 @@
+{
+  "name": "@chewbank/ioa-router",
+  "version": "9.8.2",
+  "dependencies": {
+    "@chewbank/ioa-config": "^10.0.0"
+  },
+  "deprecated": false,
+  "description": "ioa 路由中间件",
+  "devDependencies": {},
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "files": [
+    "lib"
+  ],
+  "license": "ISC",
+  "main": "lib/middleware.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
